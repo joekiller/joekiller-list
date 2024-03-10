@@ -21,4 +21,4 @@ This list is most effective on Virginia servers, since that's where I play casua
 
 #
 
-This README was blatently copied from [cleffy-list](https://github.com/Cl3ffy/cleffy-list). Thank you @CL3ffy.
+This README was blatently copied from [cleffy-list](https://github.com/Cl3ffy/cleffy-list). Thank you @Cl3ffy.
