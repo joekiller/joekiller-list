@@ -7482,6 +7482,76 @@
 				"time": 1710053659
 			},
 			"steamid": "[U:1:1610556758]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rayan Shields",
+				"time": 1710054022
+			},
+			"steamid": "[U:1:1118544141]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Leandro Zhang",
+				"time": 1710054013
+			},
+			"steamid": "[U:1:1130460575]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zayden Davila",
+				"time": 1710054024
+			},
+			"steamid": "[U:1:1201690422]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cannon Cordova",
+				"time": 1710054125
+			},
+			"steamid": "[U:1:1201814860]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gianni Parks",
+				"time": 1710054035
+			},
+			"steamid": "[U:1:1202036085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jamarcus Velazquez",
+				"time": 1710051553
+			},
+			"steamid": "[U:1:1202453244]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Quicksilver Heart",
+				"time": 1710053659
+			},
+			"steamid": "[U:1:1610556758]"
 		}
 	]
 }
