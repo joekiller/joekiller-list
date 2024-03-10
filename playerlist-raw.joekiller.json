@@ -7273,6 +7273,46 @@
 				"time": 1710038478
 			},
 			"steamid": "[U:1:1610427084]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Legatus",
+				"time": 1710048568
+			},
+			"steamid": "[U:1:292256274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/bunnings",
+				"time": 1710049873
+			},
+			"steamid": "[U:1:1664024977]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)discord.gg/bunnings",
+				"time": 1710049869
+			},
+			"steamid": "[U:1:1668152766]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)discord.gg/bunnings",
+				"time": 1710049922
+			},
+			"steamid": "[U:1:1680256770]"
 		}
 	]
 }
