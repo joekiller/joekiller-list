@@ -10,6 +10,6 @@ setlocal EnableDelayedExpansion
 for /F "tokens=1-3 delims=." %%a in ('git describe --tags --abbrev^=0') do (
     git commit -a -m "chore: update latest list"
     set /a "b=%%b+1"
-    git tag -a -m %%a.%b%.0 %%a.%b%.0
+    git tag -a -m %%a.!b!.0 %%a.!b!.0
     git push --follow-tags
 )
