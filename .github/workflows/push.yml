@@ -7,9 +7,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: zip -9 playerlist.joekiller.zip playerlist.joekiller
+      - run: zip -9 playerlist.joekiller.zip playerlist.joekiller.json
       - name: Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: playerlist.joekiller.json
+          files: playerlist.joekiller.zip
