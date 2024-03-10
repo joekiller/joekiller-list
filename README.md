@@ -13,6 +13,10 @@ This list is most effective on Virginia servers, since that's where I play casua
 
 #
 
+Download [joekiller's list](https://github.com/joekiller/joekiller-list/releases/latest/download/playerlist.joekiller.zip)
+
+#
+
 [My Steam, in case you have any questions/complaints/whatever](https://steamcommunity.com/id/joekiller)
 
 #

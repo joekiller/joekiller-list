@@ -12,4 +12,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: playerlist.joekiller.zip
+          files: 
+            - playerlist.joekiller.zip
+            - playerlist.joekiller.json
